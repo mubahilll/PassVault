@@ -1,0 +1,9 @@
+{% autoescape off %}
+Welcome to My App Login 
+
+Hello {{ name }}
+Please confirm your email by clicking on the following link. 
+Activation link: http://{{ domain }}{% url 'activate' uidb64=uid token=token %}
+
+if you didn't requested this mail, ignore it. 
+{% endautoescape %}
