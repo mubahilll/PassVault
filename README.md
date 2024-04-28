@@ -1,16 +1,14 @@
-markdown
-Copy code
-# My App
+# PassVault = Password Management System
 
-My App is a simple web application built using Django, a high-level Python web framework. It provides user authentication functionality along with account activation via email.
+PassVault is a simple web application built using Django, a high-level Python web framework. It provides user authentication functionality along with account activation via email.
 
 ## Features
 
-- User Signup: Users can create an account by providing a username, first name, last name, email address, and password. Password strength validation is implemented to ensure a secure password.
-- User Signin: Registered users can sign in using their credentials.
-- Account Activation: Upon signup, users receive an activation email with a unique link. Clicking the link activates their account.
-- User Signout: Users can securely sign out of their accounts.
-- User Interface: The application provides a clean and intuitive user interface for a seamless user experience.
+- **User Signup:** Users can create an account by providing a username, first name, last name, email address, and password. Password **strength validation** is implemented to ensure a secure password.
+- **User Signin:** Registered users can sign in using their credentials.
+- **Account Activation:** Upon signup, users receive an activation email with a unique link. Clicking the link activates their account.
+- **User Signout:** Users can securely sign out of their accounts.
+- **User Interface:** The application provides a clean and intuitive user interface for a seamless user experience.
 
 ## Installation
 
