@@ -1,4 +1,4 @@
-# PassVault = Password Management System
+# PassVault - Password Management System
 
 PassVault is a simple web application built using Django, a high-level Python web framework. It provides user authentication functionality along with account activation via email.
 
