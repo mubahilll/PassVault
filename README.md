@@ -15,7 +15,7 @@ PassVault is a simple web application built using Django, a high-level Python we
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/my-app.git
+git clone https://github.com/mubahilll/PassVault.git
 ```
 2. Install the required dependencies:
 ```bash
